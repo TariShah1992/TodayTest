@@ -31,6 +31,7 @@ public class FacebookRegistration {
 		}
 	
 	public static void gitHub(){
+		System.out.println("Tari is learning gitHub")
 		
 	}
 
