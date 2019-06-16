@@ -28,7 +28,10 @@ public class FacebookRegistration {
 		WebElement confirmEmailAddress =driver.findElement(By.id("u_0_v"));
 		confirmEmailAddress.sendKeys("humtum10148@yahoo.com");
 		
-
+		}
+	
+	public static void gitHub(){
+		
 	}
 
 }
