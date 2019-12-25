@@ -15,6 +15,7 @@ public class YahooMailTest {
 		username.sendKeys("syed728@yahoo.com");
 		WebElement nextButton= driver.findElement(By.id("login-signin"));
 		nextButton.click();
+		driver.certified only
 		
 		
 
